@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me:
+- 💻 Working as a full-stack developer
+- 💜 I love learning new technologies
+- 🐶 I love my dog Clarinha
