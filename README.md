@@ -1,4 +1,4 @@
-### Hello I am Marcelo Martins👋
+### Hello 👋, I am Marcelo Martins.
 
 ### About me:
 - 💻 Working as a full-stack developer
